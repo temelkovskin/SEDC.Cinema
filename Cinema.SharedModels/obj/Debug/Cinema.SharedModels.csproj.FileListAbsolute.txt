@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\Cinema.SharedModels.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\Cinema.SharedModels.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\Cinema.SharedModels.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\obj\Debug\Cinema.SharedModels.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\obj\Debug\Cinema.SharedModels.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\obj\Debug\Cinema.SharedModels.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\Cinema.Domain.dll
+C:\Users\PC\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\Cinema.Domain.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\System.Web.Mvc.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\System.Web.Mvc.xml

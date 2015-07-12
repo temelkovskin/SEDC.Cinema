@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\Cinema.Infrastrucutre.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\Cinema.Infrastrucutre.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\Cinema.Infrastrucutre.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\Cinema.Domain.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\Cinema.Domain.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.pdb

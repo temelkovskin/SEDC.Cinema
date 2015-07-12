@@ -1,0 +1,15 @@
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.Services.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.Services.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\obj\Debug\Cinema.Services.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\obj\Debug\Cinema.Services.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.Domain.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.Infrastrucutre.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.SharedModels.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.Domain.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.Infrastrucutre.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\Cinema.SharedModels.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\obj\Debug\Cinema.Services.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\System.Web.Mvc.xml

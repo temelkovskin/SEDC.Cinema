@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\Cinema.Domain.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\Cinema.Domain.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\obj\Debug\Cinema.Domain.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\obj\Debug\Cinema.Domain.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\Cinema.Domain.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.SqlServer.xml
