@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Cinema.SharedModels.DTOs.MovieDto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Movie"))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.Label("Title")
+                @Html.TextBox("searchTitle")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.Label("Description")
+                @Html.TextBox("searchDescription")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.Label("Date starting from")
+                @Html.TextBox("searchDate")
+            </div>
+        </div>
+
+            <input type="submit" value="Filter" class="btn btn-default" />
+    </div>
+
+
+
+
+
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PictureUrl)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StartingDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EndingDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.GenreDescription)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TheaterDescription)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+        {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        <img src="@Url.Content(item.PictureUrl)" alt="Image" width="100px" />
+                        @* @Html.DisplayFor(modelItem => item.PictureUrl)*@
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StartingDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EndingDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GenreDescription)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TheaterDescription)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Buy ticket", "BuyTicket", new { theaterId = item.TheaterId, movieId = item.Id })
+                    </td>
+                    @*<td>
+                            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+                        </td>*@
+                </tr>
+        }
+
+        </table>
+        }

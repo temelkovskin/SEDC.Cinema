@@ -7,6 +7,7 @@ using Cinema.Domain;
 using Cinema.Domain.Entities;
 using Cinema.Domain.Interfaces;
 using Cinema.SharedModels;
+using Cinema.SharedModels.DTOs;
 
 namespace Cinema.Services.Services
 {
@@ -52,6 +53,34 @@ namespace Cinema.Services.Services
             _movieRepository.Save();
         }
 
+
+        public List<MovieDto> GetAllMovies()
+        {
+            var result = _movieRepository.GetAll();
+            return result.Select(m => new MovieDto()
+            {
+                Id = m.Id,
+                Title = m.Title,
+                Description = m.Description,
+                StartingDate = m.StartingDate,
+                EndingDate = m.EndingDate,
+                PictureUrl = m.PictureUrl,
+                GenreDescription = m.Genre.GenreDescription,
+                TheaterDescription = m.Theater.TheaterName,
+                TheaterId = m.Theater.Id
+            }).ToList();
+        }
+
+        public TheaterMovieDto ReserveTicket(int theaterId, int movieId)
+        {
+            return new TheaterMovieDto()
+            {
+                MovieId = movieId,
+                TheaterId = theaterId,
+                NumberChairs = _theaterRepository.GetById(theaterId).NumberOfChairs,
+                MovieTitle = _movieRepository.GetById(movieId).Title,
+            };
+        }
 
     }
 }

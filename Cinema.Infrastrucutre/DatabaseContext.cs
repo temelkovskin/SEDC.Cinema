@@ -31,6 +31,10 @@ namespace Cinema.Infrastrucutre
 
         public System.Data.Entity.DbSet<Cinema.Domain.Entities.User> Users { get; set; }
 
+        //public System.Data.Entity.DbSet<Cinema.SharedModels.DTOs.MovieDto> MovieDtoes { get; set; }
+
+        //public System.Data.Entity.DbSet<Cinema.SharedModels.DTOs.UserDto> UserDtoes { get; set; }
+
        
 
         //public System.Data.Entity.DbSet<Cinema.SharedModels.GenreDTO> GenreDTOes { get; set; } 

@@ -12,3 +12,17 @@ C:\Users\PC\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bi
 C:\Users\PC\documents\visual studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\Cinema.Domain.pdb
 C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\System.Web.Mvc.dll
 C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.SharedModels\bin\Debug\System.Web.Mvc.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\EntityFramework.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\Cinema.SharedModels.dll.config
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\Cinema.SharedModels.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\Cinema.SharedModels.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\Cinema.Domain.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\EntityFramework.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\EntityFramework.SqlServer.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\System.Web.Mvc.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\Cinema.Domain.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\EntityFramework.SqlServer.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\bin\Debug\System.Web.Mvc.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\obj\Debug\Cinema.SharedModels.csprojResolveAssemblyReference.cache
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\obj\Debug\Cinema.SharedModels.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.SharedModels\obj\Debug\Cinema.SharedModels.pdb

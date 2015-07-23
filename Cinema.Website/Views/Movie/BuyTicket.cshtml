@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "BuyTicket";
+}
+
+@model Cinema.SharedModels.DTOs.TheaterMovieDto
+
+@using (Html.BeginForm())
+{
+    
+    <div class="form-horizontal">
+        
+        @Styles.Render("~/Content/jqueryui")
+        <h4>Buy tickets</h4>
+        <hr/>
+
+
+        <div>
+            Buy are buying ticket for
+            <h4>
+                @Html.DisplayFor(m => m.MovieTitle)
+            </h4>
+        </div>
+        <hr/>
+
+        <div>
+            Choose a sit
+        </div>
+        @{
+            var seat = Model.NumberChairs;
+            int i = 0;
+            do
+            {
+                <label>
+                    Seat Num. @i 
+                    <input type="checkbox" name="checkbox" value="value">
+                </label>
+                i++;
+            } while (i < seat + 1);
+        }
+
+    </div>
+
+   
+        int IdMovie = Model.MovieId;
+        @Html.ActionLink("Buy Ticket", "BuyMeTicket", new { idMovie = @IdMovie });
+    
+    
+    
+
+}
+
+<style>
+    input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+    }
+</style>

@@ -53,8 +53,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DTOs\GenreDTO.cs" />
+    <Compile Include="DTOs\MovieDto.cs" />
     <Compile Include="DTOs\Movie_GenreTheaterDTO.cs" />
     <Compile Include="DTOs\TheaterDTO.cs" />
+    <Compile Include="DTOs\TheaterMovieDto.cs" />
+    <Compile Include="DTOs\UserDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -13,3 +13,18 @@ c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\bin\De
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Services\obj\Debug\Cinema.Services.csprojResolveAssemblyReference.cache
 C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\System.Web.Mvc.dll
 C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.Services\bin\Debug\System.Web.Mvc.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.Services.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.Services.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.Domain.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.Infrastrucutre.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.SharedModels.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\EntityFramework.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\System.Web.Mvc.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.Domain.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.Infrastrucutre.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\Cinema.SharedModels.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\EntityFramework.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\bin\Debug\System.Web.Mvc.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\obj\Debug\Cinema.Services.csprojResolveAssemblyReference.cache
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\obj\Debug\Cinema.Services.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Services\obj\Debug\Cinema.Services.pdb

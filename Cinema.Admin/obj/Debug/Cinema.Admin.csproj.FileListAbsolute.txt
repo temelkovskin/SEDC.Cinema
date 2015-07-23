@@ -37,3 +37,42 @@ c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Admin\obj\Debug
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Admin\bin\EntityFramework.SqlServer.dll
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Admin\bin\EntityFramework.SqlServer.xml
 C:\Users\PC\Documents\Visual Studio 2013\Projects\Cinnema\Cinema.Admin\bin\MvcCheckBoxList.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Admin.dll.config
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Admin.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Admin.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Antlr3.Runtime.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Domain.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Infrastrucutre.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Services.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.SharedModels.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\EntityFramework.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\EntityFramework.SqlServer.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Microsoft.Web.Infrastructure.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\MvcCheckBoxList.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Newtonsoft.Json.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Helpers.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Mvc.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Optimization.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Razor.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.WebPages.Deployment.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.WebPages.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.WebPages.Razor.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\WebGrease.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Domain.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Infrastrucutre.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.Services.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Cinema.SharedModels.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Antlr3.Runtime.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\EntityFramework.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\EntityFramework.SqlServer.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\Newtonsoft.Json.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Helpers.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Mvc.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Razor.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.WebPages.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.WebPages.Deployment.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.WebPages.Razor.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\bin\System.Web.Optimization.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\obj\Debug\Cinema.Admin.csprojResolveAssemblyReference.cache
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\obj\Debug\Cinema.Admin.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Admin\obj\Debug\Cinema.Admin.pdb

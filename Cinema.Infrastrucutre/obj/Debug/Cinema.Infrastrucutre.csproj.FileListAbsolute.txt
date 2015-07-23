@@ -10,3 +10,15 @@ c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.csprojResolveAssemblyReference.cache
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.dll
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\Cinema.Infrastrucutre.dll.config
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\Cinema.Infrastrucutre.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\Cinema.Infrastrucutre.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\Cinema.Domain.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.SqlServer.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\Cinema.Domain.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\bin\Debug\EntityFramework.SqlServer.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.csprojResolveAssemblyReference.cache
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Infrastrucutre\obj\Debug\Cinema.Infrastrucutre.pdb

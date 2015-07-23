@@ -7,3 +7,12 @@ c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debu
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.xml
 c:\users\pc\documents\visual studio 2013\Projects\Cinnema\Cinema.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\EntityFramework.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\Cinema.Domain.dll.config
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\Cinema.Domain.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\Cinema.Domain.pdb
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\EntityFramework.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\obj\Debug\Cinema.Domain.dll
+E:\Seavus\MVC\Onion Architecture\SEDC.Cinema\Cinema.Domain\obj\Debug\Cinema.Domain.pdb

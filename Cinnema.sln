@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Domain", "Cinema.Domain\Cinema.Domain.csproj", "{13149765-07A0-412E-987A-B54CEDC59E48}"
 EndProject
@@ -21,6 +21,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Admin", "Cinema.Admin\Cinema.Admin.csproj", "{5D0320D3-3DC5-4E5B-98EF-062747973F16}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.SharedModels", "Cinema.SharedModels\Cinema.SharedModels.csproj", "{BB7EA618-056D-498E-B369-27329D539F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Website", "Cinema.Website\Cinema.Website.csproj", "{5D1606B4-F1C6-483E-B3A2-AB800F96D368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,11 +50,16 @@ Global
 		{BB7EA618-056D-498E-B369-27329D539F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB7EA618-056D-498E-B369-27329D539F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB7EA618-056D-498E-B369-27329D539F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1606B4-F1C6-483E-B3A2-AB800F96D368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1606B4-F1C6-483E-B3A2-AB800F96D368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1606B4-F1C6-483E-B3A2-AB800F96D368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1606B4-F1C6-483E-B3A2-AB800F96D368}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5D0320D3-3DC5-4E5B-98EF-062747973F16} = {C4DEE4AA-A8C4-4486-81AB-4816F4150C21}
+		{5D1606B4-F1C6-483E-B3A2-AB800F96D368} = {C4DEE4AA-A8C4-4486-81AB-4816F4150C21}
 	EndGlobalSection
 EndGlobal

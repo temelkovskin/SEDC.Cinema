@@ -43,6 +43,7 @@
     <Compile Include="Services\GenreService.cs" />
     <Compile Include="Services\MovieService.cs" />
     <Compile Include="Services\TheaterService.cs" />
+    <Compile Include="Services\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Cinema.Domain\Cinema.Domain.csproj">
