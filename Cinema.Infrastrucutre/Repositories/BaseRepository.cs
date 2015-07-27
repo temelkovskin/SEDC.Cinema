@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -43,5 +44,12 @@ namespace Cinema.Infrastrucutre.Repositories
         {
             _context.Set<TEntity>().Remove(GetById(id));
         }
+
+        public void Update(TEntity entity)
+        {
+            _context.Entry(entity).State = EntityState.Modified;
+        }
+
+
     }
 }

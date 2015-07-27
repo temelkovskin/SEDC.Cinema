@@ -58,6 +58,7 @@
     <Compile Include="DTOs\TheaterDTO.cs" />
     <Compile Include="DTOs\TheaterMovieDto.cs" />
     <Compile Include="DTOs\UserDto.cs" />
+    <Compile Include="DTOs\UserMoviesDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

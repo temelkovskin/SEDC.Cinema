@@ -58,6 +58,7 @@
     <Compile Include="Interfaces\IBaseRepository.cs" />
     <Compile Include="Interfaces\IGenreRepository.cs" />
     <Compile Include="Interfaces\IMovieRepository.cs" />
+    <Compile Include="Interfaces\IMovieUserRepository.cs" />
     <Compile Include="Interfaces\ITheaterRepository.cs" />
     <Compile Include="Interfaces\ITimeIntervalRepository.cs" />
     <Compile Include="Interfaces\IUserRepository.cs" />

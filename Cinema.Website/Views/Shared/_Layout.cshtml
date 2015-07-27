@@ -37,7 +37,8 @@
                     else
                     {
                         //<li>@Html.ActionLink("Movies", "Index", "Movie")</li>
-                        <li>@Html.ActionLink("Movies", "Index", "Movie", new { @username = session.Username }, null))</li>
+                        <li>@Html.ActionLink("Movies", "Index", "Movie", new {@username = session.Username}, null))</li>
+                        <li>@Html.ActionLink("Watched Movies", "WatchedMovies", "Movie", new { @username = session.Username }, null))</li>
                     }
 }
 

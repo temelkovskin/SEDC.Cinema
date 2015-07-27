@@ -82,5 +82,7 @@ namespace Cinema.Services.Services
             };
         }
 
+       
+
     }
 }

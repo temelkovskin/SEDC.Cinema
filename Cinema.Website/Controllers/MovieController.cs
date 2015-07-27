@@ -1,9 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Cinema.Domain;
+using Cinema.Domain.Entities;
+using Cinema.Domain.Interfaces;
 using Cinema.Infrastrucutre;
 using Cinema.Infrastrucutre.Repositories;
 using Cinema.Services.Services;
@@ -21,6 +25,9 @@ namespace Cinema.Website.Controllers
         private TimeIntervalRepository _timeIntervalRepository;
         private GenreService _genreService;
         private TheaterService _theaterService;
+        private MovieUserRepository _movieUserRepository;
+        private MovieUserService _movieUserService;
+        private DatabaseContext _db;
 
         private static string _username;
 
@@ -34,6 +41,8 @@ namespace Cinema.Website.Controllers
             var genreRepository = new GenreRepository(dbContext);
             var timeIntervalRepository = new TimeIntervalRepository(dbContext);
             var userRepository = new UserRepository(dbContext);
+            var movieUserRepository = new MovieUserRepository(dbContext);
+             _db = dbContext;
             
 
             _movieRepository = movieRepository;
@@ -41,11 +50,13 @@ namespace Cinema.Website.Controllers
             _theaterRepository = theaterRepository;
             _timeIntervalRepository = timeIntervalRepository;
              _userRepository = userRepository;
+             _movieUserRepository = movieUserRepository;
 
             _movieService = new MovieService(movieRepository, theaterRepository, 
                 _genreRepository, timeIntervalRepository);
-            _genreService = new GenreService(_genreRepository);
+            _genreService = new GenreService(genreRepository);
             _theaterService = new TheaterService(theaterRepository);
+            _movieUserService = new MovieUserService(movieUserRepository, movieRepository, userRepository);
         }
 
 
@@ -84,8 +95,6 @@ namespace Cinema.Website.Controllers
 
         public ActionResult BuyTicket(int theaterId, int movieId)
         {
-            
-
             var result = _movieService.ReserveTicket(theaterId, movieId);
             return View(result);
         }
@@ -93,9 +102,43 @@ namespace Cinema.Website.Controllers
 
         public ActionResult BuyMeTicket(int idMovie)
         {
-            int userId = _userRepository.GetAll().FirstOrDefault(x => x.Username == _username).Id;
-            //service vo movies tuka
-            return View();
+            _movieUserService.UserBuysMovieTicket(idMovie, _username);
+            return Content("<script language='javascript' type='text/javascript'>alert('Thanks the ticket has been bought. Now you can rate the movie');</script>");
+            
+        }
+
+        public ActionResult WatchedMovies(string username)
+        {
+            _username = username;
+            var model = _movieUserService.WatchedMovies(_username);
+            return View(model);
+        }
+
+        public ActionResult Rate(int idMovie, int idUser)
+        {
+
+            var result =
+                _movieUserService.WatchedMovies(_username)
+                    .FirstOrDefault(x => x.UserId == idUser && x.MovieId == idMovie);
+
+            return View(result);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Rate(UserMoviesDto dto)
+        {
+            if (ModelState.IsValid)
+            {
+                var result = _db.MovieUsers.FirstOrDefault(x => x.MovieId == dto.MovieId && x.UserId == dto.UserId);
+                result.Rating = dto.Rating;
+
+                _db.Entry(result).State = EntityState.Modified;
+                _db.SaveChanges();
+                return RedirectToAction("WatchedMovies", new { username = _username });
+            }
+            return View(dto);
+
         }
   
     }
